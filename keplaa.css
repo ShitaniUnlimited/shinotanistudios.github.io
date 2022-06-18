@@ -6,7 +6,7 @@ html {
     
     
     body {
-        background-color: #011521;
+        background-color: #e3e8e8;
         text-align: center;
         padding-bottom: 15px;
         display: block;
@@ -19,21 +19,21 @@ html {
     }
     
     h1 {
-        color: #2ce8f4;
+        color: #011521;
     }
     
     h2 {
-        color: #2ce8f4;
+        color: #011521;
     }
     
     h3 {
-        color: #2ce8f4;
+        color: #011521;
     }
 
     p {
-        color: #2ce8f4;
+        color: #011521;
     }
     
     a {
-        color: #2ce8f4;
+        color: #011521;
     }
